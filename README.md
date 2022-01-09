@@ -1,5 +1,5 @@
 
-## Pojet web & go Epitech 2022
+## Projet web & go Epitech 2022
 
 Maquette cuisine moléculaire : Thierry Marx veut démystifier la cuisine moléculaire et réalisant des recettes faciles et rapides.
 
